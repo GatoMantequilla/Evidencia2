@@ -1,6 +1,7 @@
-class HolaMundo {
+
+public class HolaMundo {
     public static void main(String[] args) {
-        System.out.print("Hola mundo");
-        System.out.println("Camilo Cifuentes");
+    System.out.printf("Hola Mundo!!!! Daniela Díaz ");
+    System.out.println("Eduardo Huidobro");
     }
 }
